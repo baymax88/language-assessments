@@ -1,5 +1,4 @@
 # Language assessments
-[![Security Status](https://s.murphysec.com/badge/baymax88/language-assessments.svg)](https://www.murphysec.com/p/baymax88/language-assessments)
 
 #### Q8. MATCH is to IGNITE as ...
 
